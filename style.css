@@ -11,7 +11,7 @@ body{
     z-index:10;
 }
 .navbar{
-    background-color:darkblue;
+    background-color:linear-gradient(to right, #a517ba, #5f1782);;
 }
 .navbar-brand i {
     height: 40px;
